@@ -1,5 +1,7 @@
 # weather-kirsh
 
+- project for test openweathermap api
+
 ## Project setup
 ```
 yarn install
